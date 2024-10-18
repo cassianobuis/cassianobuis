@@ -1,14 +1,13 @@
  Olá, meu nome é Cassiano!
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-## Sobre mim
+Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando no sesisenai desenvolvimento de sistema 
+- 🌱 Aprendendo mais sobre tecnologias que eu esto aprendendo
 
-## Minhas Skills
+Minhas Skills
 
 **Aplicações e dados**
 
