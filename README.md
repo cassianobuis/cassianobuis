@@ -1,11 +1,4 @@
- Olá, meu nome é cassiano!
-
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
----
+ Olá, meu nome é Cassiano!
 
 ## 🚀 Minhas Skills
 
@@ -20,5 +13,12 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
