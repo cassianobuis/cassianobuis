@@ -1,9 +1,39 @@
  # Olá, eu sou o Cassiano! 👋
 
- ### Sobre mim
+## 👤 **Sobre mim**
 
-### Stack´s
+Meu nome é **Cassiano** e sou estudante de **Desenvolvimento de Sistemas no SENAI**. Estou em formação para construir uma carreira sólida na área de tecnologia, com o objetivo de trabalhar no futuro em uma empresa onde eu possa crescer profissionalmente e contribuir com soluções inovadoras.
 
-### Projetos
+Sou uma pessoa curiosa, gosto de aprender coisas novas e estou sempre em busca de conhecimento. Valorizo muito o diálogo e acredito que a troca de ideias com outras pessoas é essencial para o desenvolvimento pessoal e profissional.
 
-### Entre em contato
+---
+
+## 💻 **Stacks (Tecnologias)**
+
+### **Front-end:**
+
+* HTML
+* CSS
+* JavaScript
+* Java
+* React
+
+### **Back-end:**
+
+* Java
+* Spring Boot
+
+---
+
+## 🚀 **Projetos**
+
+*(Espaço reservado para seus projetos — quando quiser, posso te ajudar a descrevê-los de forma profissional para portfólio ou LinkedIn!)*
+
+---
+
+## 📬 **Entre em contato**
+
+📧 **E-mail:** [buisconceicaoc@gmail.com](mailto:buisconceicaoc@gmail.com)
+
+🔗 **LinkedIn:**
+https://www.linkedin.com/in/cassiano-buis-conceicao-482bb9333/
