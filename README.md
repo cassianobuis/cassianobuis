@@ -1,37 +1,80 @@
- # Olá, eu sou o Cassiano! 👋
+<div align="center">
+  <style>
+    .bio-card {
+      max-width: 800px;
+      margin: auto;
+      background: linear-gradient(135deg, #0f172a, #020617);
+      color: white;
+      padding: 30px;
+      border-radius: 16px;
+      font-family: Arial, sans-serif;
+      box-shadow: 0 0 15px rgba(0, 255, 255, 0.2);
+    }
 
-## 👤 **Sobre mim**
+    h1, h2 {
+      color: #38bdf8;
+    }
 
-Meu nome é **Cassiano** e sou estudante de **Desenvolvimento de Sistemas no SENAI**. Estou em formação para construir uma carreira na área de tecnologia, com o objetivo de trabalhar no futuro em uma empresa onde eu possa crescer profissionalmente e contribuir com soluções inovadoras.
+    .stacks {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
 
-Sou uma pessoa curiosa, gosto de aprender coisas novas e estou sempre em busca de conhecimento. Valorizo muito o diálogo e acredito que a troca de ideias com outras pessoas é essencial para o desenvolvimento pessoal e profissional.
+    .box {
+      background: #0b1220;
+      padding: 15px;
+      border-radius: 10px;
+      border: 1px solid #38bdf8;
+      width: 45%;
+      min-width: 250px;
+    }
 
----
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
 
-## 💻 **Stacks (Tecnologias)**
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
 
-### **Front-end:**
+  <div class="bio-card">
+    <h1>👋 Olá, eu sou Cassiano!</h1>
 
-* HTML
-* CSS
-* JavaScript
-* Java
-* React
+    <h2>📌 Sobre mim</h2>
+    <p>
+      Estudo Desenvolvimento de Sistemas no SENAI e estou construindo minha carreira na área de tecnologia.  
+      Meu objetivo é trabalhar em uma grande empresa e crescer profissionalmente como desenvolvedor.  
+      Sou curioso, gosto de aprender coisas novas e valorizo muito conversar e trocar ideias com outras pessoas.
+    </p>
 
-### **Back-end:**
+    <h2>💻 Stacks</h2>
 
-* Java
-* Spring Boot
+    <div class="stacks">
+      <div class="box">
+        <h3>🎨 Front-end</h3>
+        <p>HTML • CSS • JavaScript • Java • React</p>
+      </div>
 
----
+      <div class="box">
+        <h3>⚙️ Back-end</h3>
+        <p>Java • Spring Boot</p>
+      </div>
+    </div>
 
-## 🚀 **Projetos**
+    <h2>🚀 Projetos</h2>
+    <p>Em breve adicionarei meus projetos aqui! 🚧</p>
 
-
-
-## 📬 **Entre em contato**
-
-📧 **E-mail:** [buisconceicaoc@gmail.com](mailto:buisconceicaoc@gmail.com)
-
-🔗 **LinkedIn:**
-https://www.linkedin.com/in/cassiano-buis-conceicao-482bb9333/
+    <h2>📬 Entre em contato</h2>
+    <p>
+      📧 <b>Email:</b> buisconceicaoc@gmail.com <br>
+      🔗 <b>LinkedIn:</b> 
+      <a href="https://www.linkedin.com/in/cassiano-buis-conceicao-482bb9333/">
+        Meu perfil no LinkedIn
+      </a>
+    </p>
+  </div>
+</div>
