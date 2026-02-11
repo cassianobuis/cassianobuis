@@ -2,7 +2,7 @@
 
 ## 👤 **Sobre mim**
 
-Meu nome é **Cassiano** e sou estudante de **Desenvolvimento de Sistemas no SENAI**. Estou em formação para construir uma carreira sólida na área de tecnologia, com o objetivo de trabalhar no futuro em uma empresa onde eu possa crescer profissionalmente e contribuir com soluções inovadoras.
+Meu nome é **Cassiano** e sou estudante de **Desenvolvimento de Sistemas no SENAI**. Estou em formação para construir uma carreira na área de tecnologia, com o objetivo de trabalhar no futuro em uma empresa onde eu possa crescer profissionalmente e contribuir com soluções inovadoras.
 
 Sou uma pessoa curiosa, gosto de aprender coisas novas e estou sempre em busca de conhecimento. Valorizo muito o diálogo e acredito que a troca de ideias com outras pessoas é essencial para o desenvolvimento pessoal e profissional.
 
@@ -27,9 +27,7 @@ Sou uma pessoa curiosa, gosto de aprender coisas novas e estou sempre em busca d
 
 ## 🚀 **Projetos**
 
-*(Espaço reservado para seus projetos — quando quiser, posso te ajudar a descrevê-los de forma profissional para portfólio ou LinkedIn!)*
 
----
 
 ## 📬 **Entre em contato**
 
