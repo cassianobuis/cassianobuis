@@ -39,4 +39,4 @@
 
 ---
 
-⭐ *Sempre aprendendo e evoluindo!*
+ *Sempre aprendendo e evoluindo!*
