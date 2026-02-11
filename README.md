@@ -1,19 +1,8 @@
-<div align="center">
-
 # 👋 Olá, eu sou **Cassiano!**
 
 🎓 **Estudante de Desenvolvimento de Sistemas no SENAI**  
-🚀 Em formação para atuar em grandes empresas de tecnologia  
-🔍 Curioso, comunicativo e sempre aprendendo algo novo  
-
----
-
-## 📊 Minhas estatísticas no GitHub
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true"/>
-
-> ⚠️ **Troque `SEU-USUARIO-AQUI` pelo seu nome de usuário do GitHub**
+🚀 Futuro desenvolvedor buscando crescer em uma grande empresa de tecnologia  
+🔍 Curioso, comunicativo e sempre disposto a aprender coisas novas  
 
 ---
 
@@ -21,12 +10,17 @@
 
 ### 🎨 Front-end  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ### ⚙️ Back-end  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 ---
@@ -38,15 +32,11 @@
 
 ## 📬 Entre em contato comigo  
 
-<p>
-  <a href="mailto:buisconceicaoc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cassiano-buis-conceicao-482bb9333/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+📧 **Email:** `buisconceicaoc@gmail.com`  
+
+🔗 **LinkedIn:**  
+[Meu perfil no LinkedIn](https://www.linkedin.com/in/cassiano-buis-conceicao-482bb9333/)
+
+---
 
  *Sempre aprendendo e evoluindo!*
-
-</div>
