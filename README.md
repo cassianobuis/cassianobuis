@@ -1,9 +1,7 @@
-# 👋 Olá, eu sou **Cassiano!**
-
- **Estudante de Desenvolvimento de Sistemas no SENAI**
- Futuro desenvolvedor buscando crescer em uma grande empresa de tecnologia com meu esforço e dedicação
- Sempre busco aprender e melhorar mais.
----
+👋 Olá, eu sou o Cassiano!
+ Estudante de Desenvolvimento de Sistemas no SENAI
+ Sempre em busca de aprendeer e evlouir como desenvolvedor
+Tenho como objetivo construir uma carreira  em uma empresa de tecnologia, levando com dedicação tudo que aprendo.
 
 💻 Minhas Stacks
 
