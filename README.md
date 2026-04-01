@@ -2,7 +2,7 @@
 
  Estudante de Desenvolvimento de Sistemas no SENAI
  
- Sempre em busca de aprendeer e evlouir como desenvolvedor
+ Sempre em busca de aprender e evlouir como desenvolvedor
  
 Tenho como objetivo construir uma carreira  em uma empresa de tecnologia, levando com dedicação tudo que aprendo.
 
