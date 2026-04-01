@@ -1,14 +1,13 @@
 # 👋 Olá, eu sou **Cassiano!**
 
-🎓 **Estudante de Desenvolvimento de Sistemas no SENAI**  
-🚀 Futuro desenvolvedor buscando crescer em uma grande empresa de tecnologia  
-🔍 Curioso, comunicativo e sempre disposto a aprender coisas novas  
-
+ Estudante de Desenvolvimento de Sistemas no SENAI  
+ Futuro desenvolvedor buscando crescer em uma grande empresa de tecnologia com meu esforço e dedicação
+ Sempre busco aprender e melhorar mais.
 ---
 
-## 💻 Minhas Stacks
+💻 Minhas Stacks
 
-### 🎨 Front-end  
+ 🎨 Front-end  
 <p>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
