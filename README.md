@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou **Cassiano!**
 
- Estudante de Desenvolvimento de Sistemas no SENAI  
+ **Estudante de Desenvolvimento de Sistemas no SENAI**
  Futuro desenvolvedor buscando crescer em uma grande empresa de tecnologia com meu esforço e dedicação
  Sempre busco aprender e melhorar mais.
 ---
