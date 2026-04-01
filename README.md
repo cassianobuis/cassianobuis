@@ -26,7 +26,8 @@ Tenho como objetivo construir uma carreira  em uma empresa de tecnologia, levand
 ---
 
 ## 🚀 Projetos  
-🔧 *Em breve adicionarei meus projetos aqui...*
+Meus projetos estão tudo no meu portfolio click no link e voce vai ser redirecionado para meus projetos 
+https://cassianobuis.github.io/portfolio/
 
 ---
 
