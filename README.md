@@ -4,6 +4,8 @@
  
  Sempre em busca de aprender e evlouir como desenvolvedor
  
+ Acredito que dedicação e esforço são fundamentais no aprendizado, por isso, quando me deparo com algo que ainda não domino, encaro como uma oportunidade de crescimento e me dedico ao máximo para aprender e evoluir. Estou  sempre disposto a ir além para entregar o meu melhor.
+ 
 Tenho como objetivo construir uma carreira  em uma empresa de tecnologia, levando com dedicação tudo que aprendo.
 
 💻 Minhas Stacks
