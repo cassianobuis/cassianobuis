@@ -54,16 +54,6 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, aplicando
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🎓 Cursos SENAI/SC
-![SENAI React](https://img.shields.io/badge/SENAI/SC-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SENAI JUnit](https://img.shields.io/badge/SENAI/SC-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![SENAI GitHub](https://img.shields.io/badge/SENAI/SC-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SENAI Scrum](https://img.shields.io/badge/SENAI/SC-Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![SENAI SQL](https://img.shields.io/badge/SENAI/SC-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SENAI CSS](https://img.shields.io/badge/SENAI/SC-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SENAI HTML](https://img.shields.io/badge/SENAI/SC-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SENAI JavaScript](https://img.shields.io/badge/SENAI/SC-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SENAI APIs](https://img.shields.io/badge/SENAI/SC-APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 ---
 
 ## 🚀 Projetos  
