@@ -1,12 +1,11 @@
 👋 Olá, eu sou o Cassiano!
 
- Estudante de Desenvolvimento de Sistemas no SENAI
- 
- Sempre em busca de aprender e evlouir como desenvolvedor
- 
- Acredito que dedicação e esforço são fundamentais no aprendizado, por isso, quando me deparo com algo que ainda não domino, encaro como uma oportunidade de crescimento e me dedico ao máximo para aprender e evoluir. Estou  sempre disposto a ir além para entregar o meu melhor.
- 
-Tenho como objetivo construir uma carreira  em uma empresa de tecnologia, levando com dedicação tudo que aprendo.
+Tenho formação em Desenvolvimento de Sistemas pelo SENAI e estou sempre em busca de aprender e evoluir como desenvolvedor.
+
+Acredito que dedicação e esforço são fundamentais no aprendizado. Sempre que me deparo com algo novo ou que ainda não domino, encaro como uma oportunidade de crescimento e me dedico ao máximo para evoluir e entregar o meu melhor.
+
+Meu objetivo é construir uma carreira sólida na área de tecnologia, aplicando com dedicação tudo o que aprendo e contribuindo de forma positiva para os projetos e equipes das quais fizer parte.
+
 
 💻 Minhas Stacks
 
